@@ -1,0 +1,11 @@
+mysql> select * from lang_popular;
++----+---------------+-------------+
+| id | language_name | no_of_users |
++----+---------------+-------------+
+|  5 | C             |       10000 |
+|  6 | JAVA          |        1000 |
+|  7 | Python        |         100 |
++----+---------------+-------------+
+3 rows in set (0.00 sec)
+
+mysql>
